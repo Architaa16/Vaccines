@@ -49,3 +49,53 @@ AGE,GENDER,HEALTH CONDITION,LOCATION,VACCINE_TYPE,VACCINATION_DATE,ADVERSE_REACT
 65,Female,Hypertension,Lakshadweep,Sputnik V,01-06-2024,Chills
 61,Male,Diabetes,Puducherry,Covaxin,02-06-2024,None
 66,Female,None,Ladakh,Covishield,03-06-2024,Fatigue
+
+
+29,Male,None,Haryana,Covaxin,04-06-2024,None
+53,Female,Diabetes,Maharashtra,Covishield,05-06-2024,Fatigue
+45,Male,Hypertension,Karnataka,Sputnik V,06-06-2024,Headache
+37,Female,Obesity,Kerala,Covaxin,07-06-2024,Fever
+32,Male,None,Rajasthan,Covishield,08-06-2024,None
+50,Female,Asthma,Uttar Pradesh,Sputnik V,09-06-2024,Sore Arm
+41,Male,Heart Disease,Delhi,Covaxin,10-06-2024,Fatigue
+28,Female,Diabetes,Goa,Covishield,11-06-2024,None
+54,Male,None,Tamil Nadu,Sputnik V,12-06-2024,Chills
+60,Female,Hypertension,West Bengal,Covaxin,13-06-2024,Headache
+23,Male,Obesity,Meghalaya,Covishield,14-06-2024,None
+38,Female,Asthma,Ladakh,Sputnik V,15-06-2024,Fever
+47,Male,None,Manipur,Covaxin,16-06-2024,Sore Arm
+35,Female,Heart Disease,Mizoram,Covishield,17-06-2024,Fatigue
+61,Male,Diabetes,Punjab,Sputnik V,18-06-2024,None
+26,Female,Hypertension,Bihar,Covaxin,19-06-2024,Chills
+43,Male,Obesity,Assam,Covishield,20-06-2024,Headache
+55,Female,None,Chhattisgarh,Sputnik V,21-06-2024,None
+39,Male,Asthma,Nagaland,Covaxin,22-06-2024,Fatigue
+31,Female,Diabetes,Tripura,Covishield,23-06-2024,Sore Arm
+46,Male,None,Andhra Pradesh,Sputnik V,24-06-2024,Fever
+58,Female,Hypertension,Dadra and Nagar Haveli and Daman and Diu,Covaxin,25-06-2024,None
+22,Male,Obesity,Puducherry,Covishield,26-06-2024,Headache
+49,Female,Heart Disease,Arunachal Pradesh,Sputnik V,27-06-2024,None
+36,Male,None,Lakshadweep,Covaxin,28-06-2024,Chills
+44,Female,Asthma,Chandigarh,Covishield,29-06-2024,Fatigue
+27,Male,Diabetes,Odisha,Sputnik V,30-06-2024,None
+52,Female,Hypertension,Sikkim,Covaxin,01-07-2024,Sore Arm
+34,Male,Obesity,Telangana,Covishield,02-07-2024,Fever
+63,Female,None,Himachal Pradesh,Sputnik V,03-07-2024,None
+25,Male,Heart Disease,Andaman and Nicobar Islands,Covaxin,04-07-2024,Fatigue
+40,Female,Diabetes,Maharashtra,Covishield,05-07-2024,None
+59,Male,None,Karnataka,Sputnik V,06-07-2024,Headache
+30,Female,Hypertension,Kerala,Covaxin,07-07-2024,Sore Arm
+48,Male,Obesity,Rajasthan,Covishield,08-07-2024,None
+33,Female,None,Uttar Pradesh,Sputnik V,09-07-2024,Fever
+56,Male,Asthma,Delhi,Covaxin,10-07-2024,Chills
+41,Female,Diabetes,Goa,Covishield,11-07-2024,None
+37,Male,Heart Disease,Tamil Nadu,Sputnik V,12-07-2024,Fatigue
+29,Female,None,West Bengal,Covaxin,13-07-2024,Sore Arm
+50,Male,Hypertension,Meghalaya,Covishield,14-07-2024,None
+43,Female,Obesity,Ladakh,Sputnik V,15-07-2024,Headache
+27,Male,Asthma,Manipur,Covaxin,16-07-2024,Fever
+55,Female,Diabetes,Mizoram,Covishield,17-07-2024,None
+62,Male,None,Punjab,Sputnik V,18-07-2024,Chills
+31,Female,Hypertension,Bihar,Covaxin,19-07-2024,Fatigue
+45,Male,Obesity,Assam,Covishield,20-07-2024,None
+39,Female,Heart Disease,Chhattisgarh,Sputnik V,21-07-2024,Sore Arm
