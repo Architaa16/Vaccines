@@ -3,15 +3,13 @@
 
 # Vaccine Adverse Reaction Checker
 
-This project provides a simple and direct way for users to check the potential adverse reactions they might experience based on their **age**, **gender**, and **vaccine type**. It uses a basic machine learning model trained on a CSV dataset to make predictions.
+This project provides a simple and direct way for users to check the potential adverse reactions they might experience based on their **age**, **gender** and **vaccine type**. It uses a basic machine learning model trained on a CSV dataset to make predictions.
 
-## 📝 Project Description
+##  Project Description
 
-The idea behind this project is to help individuals get a quick overview of possible side effects from different vaccines. It does this by using a trained model on sample data. The interface is built using **Flask**, and the user inputs are collected via a form.
+The idea behind this project is to help individuals get a quick overview of possible side effects from different vaccines. It does this by using a trained model on sample data. 
 
-There is no complex frontend or database involved — the project is meant to be lightweight and focused on functionality.
-
-## 🧩 How It Works
+##  How It Works
 
 1. User enters:
    - Age
@@ -21,7 +19,7 @@ There is no complex frontend or database involved — the project is meant to be
 3. The model returns a likely adverse reaction (e.g., Fever, Headache, None, etc.)
 4. The result is displayed on a simple output page.
 
-## 📁 Project Structure
+##  Project Structure
 
 Vaccines/
 │
